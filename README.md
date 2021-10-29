@@ -37,7 +37,7 @@ Note if you clone the repo, you will need to create your own .env file to run th
 ## Usage ##
 How to use this application: 
 
-Once you have cloned the repo and set up node and the dependencies, you can run from the terminal using bash or zsh on mac. 
+Once you have cloned the repo and set up node and the dependencies, created the .env file, you can run from the terminal using bash or zsh on mac. 
 
 ## License ##
 This application is covered by the following license: 
