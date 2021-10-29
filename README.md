@@ -4,9 +4,9 @@
 
 Brief description of application:
 
-![Screenshot](./images/ecommerce-backend-screenshot.png)
+![Screenshot](./images/ecom-screenshot.png)
 
-Link to deployed app: <https://express-note-taker-cmp.herokuapp.com/notes>
+Link to deployed app: <https://chrispy-ecom-backend.herokuapp.com/api/products>
 
 This application is a simple example of a working ecommerce site including just the Model and Controller functionality of the MVC. The controller is based on the Express.js package and the Model is based on Sequelize package. It provides full CRUD capabilities for Products, Categoris and Tags if driven using Insomnia or similar. It depends on Express.js for API routing.
 
